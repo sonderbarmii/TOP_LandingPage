@@ -30,6 +30,27 @@ a {
 }
 
 .bigimage {
-    width: 400px;
-    height: 200px;
+    display: flex;
+    width: 800px;
+    height: 400px;
+}
+
+.uppercontainer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+}
+
+.textheader {
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.signup {
+    
+}
+
+.leftcontainer {
+    width: 700px;
 }
