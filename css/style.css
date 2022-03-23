@@ -59,6 +59,9 @@ a {
 .signup {
     background-color: #3882f6;
     color: #f9faf8;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
 }
 
 .leftcontainer {
