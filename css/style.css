@@ -20,8 +20,8 @@ body {
     color: #f9faf8;
     display: flex;
     justify-content: space-between;
-    padding: 18px;
-    gap: 50px;
+    padding: 20px;
+    margin: 0;
 }
 
 a {
@@ -30,10 +30,9 @@ a {
 }
 
 .bigimage {
-    width: 100px;
-    height: 100px;
-    display: flex;
-    flex-shrink: 0;
+    
+    width: auto;
+    height: auto;
 }
 
 .uppercontainer {
