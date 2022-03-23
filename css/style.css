@@ -26,7 +26,7 @@ img {
 
 a {
     text-decoration: none;
-    color: #f9faf8;
+    color: #e5e7eb;
 }
 
 .bigimage {
@@ -40,17 +40,35 @@ a {
     color: #f9faf8;
     display: flex;
     justify-content: center;
+    height: 200px;
 }
 
 .textheader {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: extra-bold;
+    color: #f9faf8;
+}
+
+.herotext {
+    font-size: 18px;
+    color: #e5e7eb;
 }
 
 .signup {
-    
+    background-color: #3882f6;
+    color: #f9faf8;
 }
 
 .leftcontainer {
     width: 700px;
+}
+
+.lowercontainer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.infoheader {
+    text-align: center;
 }
