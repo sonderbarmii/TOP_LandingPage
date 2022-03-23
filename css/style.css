@@ -4,7 +4,7 @@ body {
     flex-direction: column;
 }
 
-img {
+.smolimg {
     width: 100px;
     height: 100px;
 }
@@ -30,9 +30,10 @@ a {
 }
 
 .bigimage {
+    width: 100px;
+    height: 100px;
     display: flex;
-    width: 800px;
-    height: 400px;
+    flex-shrink: 0;
 }
 
 .uppercontainer {
