@@ -30,7 +30,9 @@ a {
 }
 
 .bigimage {
-    
+    display: block;
+    max-width: 600;
+    max-height: 300;
     width: auto;
     height: auto;
 }
