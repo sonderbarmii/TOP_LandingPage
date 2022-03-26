@@ -119,3 +119,12 @@ a {
     font-size: 24px;
     font-weight: bold;
 }
+
+.footerbutton {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 15px;
+    width: 100px;
+    height: 50px;
+    border-color: #f9faf8;
+}
