@@ -1,7 +1,7 @@
 body {
     font-family: Roboto, sans-serif;
-    display: flex;
-    flex-direction: column;
+    /*display: flex;
+    flex-direction: column;*/
 }
 
 .smolimg {
@@ -69,10 +69,11 @@ a {
     width: 700px;
 }
 
-.imgcont {
+.container {
     display: flex;
-    text-align: center;
     justify-content: center;
+    text-align: center;
+    gap: 30px;
 }
 
 .infoheader {
