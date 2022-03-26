@@ -71,8 +71,8 @@ a {
 
 .imgcont {
     display: flex;
-    justify-content: center;
     text-align: center;
+    justify-content: center;
 }
 
 .infoheader {
@@ -80,5 +80,5 @@ a {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
-    padding: 10px;
+    padding: 30px;
 }
