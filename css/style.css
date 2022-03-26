@@ -115,3 +115,7 @@ a {
     gap: 100px;
 }
 
+.footerheader {
+    font-size: 24px;
+    font-weight: bold;
+}
