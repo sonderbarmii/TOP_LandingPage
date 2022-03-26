@@ -77,4 +77,8 @@ a {
 
 .infoheader {
     text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding: 10px;
 }
