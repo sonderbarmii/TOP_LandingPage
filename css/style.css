@@ -108,6 +108,10 @@ a {
     width: 700px;
     height: 100px;
     align-items: center;
+    justify-content: center;
     margin: auto;
     padding: 10px;
+    display: flex;
+    gap: 100px;
 }
+
