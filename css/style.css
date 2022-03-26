@@ -98,3 +98,13 @@ a {
     padding: 100px;
 }
 
+.footerbox {
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 15px;
+    width: 700px;
+    height: 100px;
+    align-items: center;
+    margin: auto;
+    padding: 10px;
+}
